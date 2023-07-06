@@ -1,0 +1,38 @@
+.container {
+    align-items: center;
+
+}
+  
+  h1 {
+    font-size: 32px;
+    color: #bbeb29;
+  }
+  
+  p {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 30px;
+  }
+  
+  .play-button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .play-button:hover {
+    background-color: #45a049;
+  }
+  .heads {
+    background-color: lightcoral;
+    text-align: center;
+  }
+  .heads .p{
+    text-align: center;
+  }
+
+  
